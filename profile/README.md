@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/hextechbestlogo.png" alt="Hextech AI Labs Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/Hextech-AI-Labs/.github/main/assets/images/hextechbestlogo.png" alt="Hextech AI Labs Logo" width="200" />
 </p>
 
 <h1 align="center">Hextech AI Labs</h1>
