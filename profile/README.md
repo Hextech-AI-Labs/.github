@@ -1,40 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hextech-AI-Labs/.github/main/assets/images/hextechbestlogo.png" alt="Hextech AI Labs Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/Hextech-AI-Labs/.github/main/assets/images/hextechlatestslatest.png" alt="Hextech AI Labs Logo" width="500" />
 </p>
 
 <h1 align="center">Hextech AI Labs</h1>
 
 <p align="center">
-  An AI research startup expanding the limits of AI through the faithful reproduction of state-of-the-art, cutting-edge frontier research.
+  <b>An AI research startup expanding the limits of artificial intelligence through the faithful reproduction and optimization of state-of-the-art, cutting-edge frontier research.</b>
 </p>
 
-## Core Members
+At Hextech AI Labs, we believe that advanced AI capabilities should not be restricted by massive hardware constraints. We actively explore novel architectures, training methodologies, and model distillation techniques to democratize access to high-performance artificial intelligence.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AshenDary">
-        <img src="https://github.com/AshenDary.png" width="100px;" alt="AshenDary"/>
-        <br />
-        <sub><b>AshenDary</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matthew-sudo2">
-        <img src="https://github.com/matthew-sudo2.png" width="100px;" alt="matthew-sudo2"/>
-        <br />
-        <sub><b>matthew-sudo2</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/seavens3nt">
-        <img src="https://github.com/seavens3nt.png" width="100px;" alt="seavens3nt"/>
-        <br />
-        <sub><b>seavens3nt</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+##  Our Objective
+
+Our primary mission is to **bridge the gap between limited computing power and efficient AI models for local use**. 
+
+We strive to engineer lightweight, highly capable neural networks that can run seamlessly on consumer-grade hardware and edge devices without compromising on reasoning or performance. By focusing on computational efficiency, precision quantization, and algorithmic breakthroughs, we aim to make frontier AI accessible to developers, researchers, and end-users worldwide.
+
+##  Open Source & Community
+
+Hextech AI Labs is built on the principles of open science and collaborative innovation. **We enthusiastically welcome contributions from the open-source community.** 
+
+Whether you are a machine learning researcher optimizing model architectures, a software engineer building lightweight inference engines, or a developer improving our documentation and tooling, your insights are highly valued. We encourage you to explore our repositories, open issues, submit pull requests, and help us push the boundaries of what local AI can achieve.
 
 ## Connect
 
