@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="assets/images/hextechbestlogo.webp" alt="Hextech AI Labs Logo" width="200" />
-  
-  # Hextech AI Labs
-</div>
+<p align="center">
+  <img src="assets/images/hextechbestlogo.png" alt="Hextech AI Labs Logo" width="200" />
+</p>
 
-An AI research startup expanding the limits of AI through the faithful reproduction of state-of-the-art, cutting-edge frontier research.
+<h1 align="center">Hextech AI Labs</h1>
+
+<p align="center">
+  An AI research startup expanding the limits of AI through the faithful reproduction of state-of-the-art, cutting-edge frontier research.
+</p>
 
 ## Core Members
 
@@ -36,4 +38,4 @@ An AI research startup expanding the limits of AI through the faithful reproduct
 
 ## Connect
 
-* [GitHub Organization](https://github.com/Hextech-AI-Labs)
+- [GitHub Organization](https://github.com/Hextech-AI-Labs)
