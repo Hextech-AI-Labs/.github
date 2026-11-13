@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PATH_TO_YOUR_LOGO.png" alt="Hextech AI Labs Logo" width="200" />
+  <img src="assets/images/hextechbestlogo.webp" alt="Hextech AI Labs Logo" width="200" />
   
   # Hextech AI Labs
 </div>
